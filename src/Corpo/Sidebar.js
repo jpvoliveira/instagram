@@ -6,7 +6,7 @@ import Copyright from './Sidebar/Copyright'
 export default function Sidebar(){
     return(
         <div class="sidebar">
-            <Usuario/>
+            <Usuario nome="catanacomics" user="Catana"/>
             <Sugestoes/>
             <Links/>
             <Copyright/> 
